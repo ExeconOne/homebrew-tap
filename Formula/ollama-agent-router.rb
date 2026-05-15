@@ -1,8 +1,8 @@
 class OllamaAgentRouter < Formula
   desc "OpenAI-compatible router for Ollama with GPU/CPU-aware queues"
   homepage "https://github.com/ExeconOne/ollama-agent-router"
-  url "https://registry.npmjs.org/ollama-agent-router/-/ollama-agent-router-0.1.8.tgz"
-  sha256 "aaf64ccf216646e1eb71cb950b74b4a038216561414cbbdbea1b083124de2e83"
+  url "https://registry.npmjs.org/ollama-agent-router/-/ollama-agent-router-0.1.9.tgz"
+  sha256 "74995c0475ad548be717565fb508444d87ed0789a02ae17a87ec4e1565aa96a7"
   license "MIT"
 
   depends_on "node"
